@@ -8,7 +8,7 @@ const AuthLayout: FC<AuthLayoutProps> = ({ children }) => {
   return (
     <div>
       {/* height making problem */}
-      <div className="flex items-center justify-center h-full">{children}</div>
+      <div className="flex items-center justify-center ">{children}</div>
     </div>
   );
 };
