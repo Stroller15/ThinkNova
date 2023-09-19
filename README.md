@@ -1,3 +1,3 @@
 # Building ThinkNova
 
-### ### <center>Work in Progress......</center>
+### <center>Work in Progress......</center>
